@@ -31,7 +31,7 @@ I follow a structured framework to ensure insights are accurate and actionable:
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 | Project | Domain | Key Impact |
 | :--- | :--- | :--- |
@@ -46,10 +46,17 @@ I follow a structured framework to ensure insights are accurate and actionable:
 
 ## 📈 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakunthala-suriyan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakunthala-suriyan&theme=dark&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakunthala-suriyan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff" width="400" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakunthala-suriyan&theme=dark&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="400" alt="GitHub Streak"/>
 </p>
+
+---
+
+## 🎓 Education & Certifications
+
+-   **M.Phil in Commerce** – *University 3rd Rank*
+-   **Certifications:** Power BI, SQL, Excel, Generative AI, Data Visualization, Python *(Udemy & Microsoft)*
 
 ---
 
@@ -59,13 +66,6 @@ I follow a structured framework to ensure insights are accurate and actionable:
 -   **Generative AI:** Integrating Copilot for productivity & insight generation
 -   **Advanced DAX:** Mastering complex time intelligence & optimization patterns
 -   **Storytelling with Data:** Improving narrative-driven visualization design
-
----
-
-## 🎓 Education & Certifications
-
--   **M.Phil in Commerce** – *University 3rd Rank*
--   **Certifications:** Power BI, SQL, Excel, Generative AI, Data Visualization, Python *(Udemy & Microsoft)*
 
 ---
 
