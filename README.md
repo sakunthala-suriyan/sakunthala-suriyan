@@ -14,13 +14,13 @@ The dashboard is designed with a **modern, minimal, and professional aesthetic**
 
 Beyond visualization, this analysis uncovers actionable business intelligence:
 
-*   ** Revenue Optimization:** Identified that "Finance Tutorials" have a **2x higher RPM** ($4.50) than "Tech Reviews" ($2.30), suggesting a strategic content shift could boost overall revenue by ~15%.
+*   **💰 Revenue Optimization:** Identified that "Finance Tutorials" have a **2x higher RPM** ($4.50) than "Tech Reviews" ($2.30), suggesting a strategic content shift could boost overall revenue by ~15%.
 *   **📱 Mobile Engagement Gap:** Mobile users account for 65% of traffic but show a **15% lower retention rate**. The significant drop-off at the 2-minute mark suggests a need for shorter intros and optimized mobile formatting.
-*   ** Peak Conversion Window:** Data indicates that videos published on **Thursdays at 6 PM IST** yield **30% higher subscriber conversion** compared to weekend uploads.
+*   **📅 Peak Conversion Window:** Data indicates that videos published on **Thursdays at 6 PM IST** yield **30% higher subscriber conversion** compared to weekend uploads.
 *   **🌍 Geographic Value Disparity:** Tier-1 countries (US/UK) contribute only 25% of views but generate **60% of total revenue**, highlighting an opportunity for targeted global content strategies.
 *   **📈 Evergreen Content Stability:** Tutorial-based content continues to drive **40% of monthly views** six months post-publication, proving more stable for long-term growth than trending news topics.
 
-##  Interactive Walkthrough
+## 🎥 Interactive Walkthrough
 
 Explore the dashboard's key features through this visual guide:
 
@@ -40,14 +40,14 @@ Explore the dashboard's key features through this visual guide:
 
 ## ✨ Key Features
 
-###  KPI Summary Cards
+### 📈 KPI Summary Cards
 *   **Total Views:** 12.4M
 *   **Watch Time:** 1M+ Hours
 *   **Subscribers:** 128K
 *   **Revenue:** $28.57K
 *   **Videos Published:** 196
 
-###  Interactive Visuals
+### 📊 Interactive Visuals
 *   **Views & Watch Time Trend:** Monthly performance analysis with MoM % change.
 *   **Audience Retention Curve:** Drop-off analysis over the video timeline.
 *   **Subscriber Growth:** Cumulative growth trajectory over the year.
@@ -73,7 +73,7 @@ Explore the dashboard's key features through this visual guide:
 | **Custom Theming** | JSON theme file for consistent YouTube-inspired branding (Red/White/Navy) |
 | **Navigation** | Bookmarks and Drill-through pages for enhanced user experience |
 
-## 📁 Repository Contents
+##  Repository Contents
 
 *   `YouTube_Analytics_Dashboard.pbix`: The main Power BI report file.
 *   `youtube_dashboard_dataset.xlsx`: Synthetic dataset used for the project.
@@ -97,7 +97,7 @@ The dataset is **synthetic sample data** representing a YouTube channel's perfor
 8.  `Audience_Retention`: Minute-by-minute retention curve data.
 9.  `Realtime_48h`: Hourly view data for the last 48 hours of the period.
 
-##  How to Use
+## 🚀 How to Use
 
 1.  **Clone or Download** this repository.
 2.  Open `YouTube_Analytics_Dashboard.pbix` in **Power BI Desktop** (free download from Microsoft).
