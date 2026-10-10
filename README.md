@@ -14,13 +14,13 @@ The dashboard is designed with a **modern, minimal, and professional aesthetic**
 
 Beyond visualization, this analysis uncovers actionable business intelligence:
 
-*   **💰 Revenue Optimization:** Identified that "Finance Tutorials" have a **2x higher RPM** ($4.50) than "Tech Reviews" ($2.30), suggesting a strategic content shift could boost overall revenue by ~15%.
+*   ** Revenue Optimization:** Identified that "Finance Tutorials" have a **2x higher RPM** ($4.50) than "Tech Reviews" ($2.30), suggesting a strategic content shift could boost overall revenue by ~15%.
 *   **📱 Mobile Engagement Gap:** Mobile users account for 65% of traffic but show a **15% lower retention rate**. The significant drop-off at the 2-minute mark suggests a need for shorter intros and optimized mobile formatting.
-*   **📅 Peak Conversion Window:** Data indicates that videos published on **Thursdays at 6 PM IST** yield **30% higher subscriber conversion** compared to weekend uploads.
+*   ** Peak Conversion Window:** Data indicates that videos published on **Thursdays at 6 PM IST** yield **30% higher subscriber conversion** compared to weekend uploads.
 *   **🌍 Geographic Value Disparity:** Tier-1 countries (US/UK) contribute only 25% of views but generate **60% of total revenue**, highlighting an opportunity for targeted global content strategies.
 *   **📈 Evergreen Content Stability:** Tutorial-based content continues to drive **40% of monthly views** six months post-publication, proving more stable for long-term growth than trending news topics.
 
-## 🎥 Interactive Walkthrough
+##  Interactive Walkthrough
 
 Explore the dashboard's key features through this visual guide:
 
@@ -29,18 +29,18 @@ Explore the dashboard's key features through this visual guide:
 *Filter by Device Type or Month to see real-time updates across all 12.4M views and $28.57K revenue metrics.*
 
 #### 2️⃣ Drill-Through Navigation
-![Country Detail](images/country-detail.png)
+![Country Detail](country-detail.png)
 *Right-click any country on the map → "Drill through" to see localized retention, RPM, and subscriber growth.*
 
 #### 3️⃣ Audience Retention Analysis
-![Retention Curve](images/retention-curve.png)
+![Retention Curve](retention-curve.png)
 *Identify drop-off points at the 2-minute mark for mobile users vs. desktop engagement patterns.*
 
 > 💡 **Try it yourself:** Download `YouTube_Analytics_Dashboard.pbix` and interact with the slicers to experience the full functionality!
 
 ## ✨ Key Features
 
-### 📈 KPI Summary Cards
+###  KPI Summary Cards
 *   **Total Views:** 12.4M
 *   **Watch Time:** 1M+ Hours
 *   **Subscribers:** 128K
@@ -58,7 +58,7 @@ Explore the dashboard's key features through this visual guide:
 *   **Recent Activity:** 48-hour hourly traffic pattern analysis.
 *   **Top Performing Videos:** Ranked by views, watch time, and engagement.
 
-### ️ Interactive Controls
+### 🎛️ Interactive Controls
 *   **Slicers:** Filter by Device Type, Month (Jan–Dec), and Metric View (Subscribers vs. Retention).
 *   **Drill-Through:** Right-click any country on the map to navigate to a detailed **Country Detail Page** with localized metrics.
 
@@ -79,7 +79,8 @@ Explore the dashboard's key features through this visual guide:
 *   `youtube_dashboard_dataset.xlsx`: Synthetic dataset used for the project.
 *   `Youtube analytic theme.json`: Custom JSON theme file for styling.
 *   `dashboard-preview.png`: Main overview screenshot.
-*   `images/`: Folder containing walkthrough screenshots (country detail, retention curve).
+*   `country-detail.png`: Drill-through page screenshot.
+*   `retention-curve.png`: Audience retention chart screenshot.
 
 ## 📚 Dataset Description
 
@@ -96,7 +97,7 @@ The dataset is **synthetic sample data** representing a YouTube channel's perfor
 8.  `Audience_Retention`: Minute-by-minute retention curve data.
 9.  `Realtime_48h`: Hourly view data for the last 48 hours of the period.
 
-## 🚀 How to Use
+##  How to Use
 
 1.  **Clone or Download** this repository.
 2.  Open `YouTube_Analytics_Dashboard.pbix` in **Power BI Desktop** (free download from Microsoft).
@@ -113,7 +114,7 @@ The dataset is **synthetic sample data** representing a YouTube channel's perfor
 *   💻 **GitHub:** [github.com/sakunthala-suriyan](https://github.com/sakunthala-suriyan)
 *   📍 **Location:** Salem, Tamil Nadu, India
 
-##  License
+## 📄 License
 
 This project is open-source and available for educational and portfolio purposes. Feel free to use the code and design concepts for your own learning.
 
