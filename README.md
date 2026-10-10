@@ -19,6 +19,18 @@ I bridge the gap between business strategy and data analytics. With a strong fou
 
 ---
 
+## 💡 My Analytical Approach
+
+I follow a structured framework to ensure insights are accurate and actionable:
+
+1.  **Business Understanding:** Define KPIs & stakeholder questions first
+2.  **Data Preparation:** Clean & transform using Power Query / SQL
+3.  **Modeling:** Build Star Schema with proper relationships
+4.  **Visualization:** Design intuitive, user-centric dashboards
+5.  **Insights & Action:** Translate findings into business recommendations
+
+---
+
 ## 📊 Featured Projects
 
 | Project | Domain | Key Impact |
@@ -32,6 +44,24 @@ I bridge the gap between business strategy and data analytics. With a strong fou
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakunthala-suriyan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakunthala-suriyan&theme=dark&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🚀 Currently Focused On
+
+-   **Microsoft Fabric:** Exploring end-to-end analytics solutions
+-   **Generative AI:** Integrating Copilot for productivity & insight generation
+-   **Advanced DAX:** Mastering complex time intelligence & optimization patterns
+-   **Storytelling with Data:** Improving narrative-driven visualization design
+
+---
+
 ## 🎓 Education & Certifications
 
 -   **M.Phil in Commerce** – *University 3rd Rank*
@@ -39,7 +69,7 @@ I bridge the gap between business strategy and data analytics. With a strong fou
 
 ---
 
-##  Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sakunthalasuriyan" target="_blank">
