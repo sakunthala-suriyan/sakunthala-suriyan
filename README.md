@@ -1,170 +1,159 @@
 # 👋 Hi, I'm Sakunthala S.
 
-### 📊 Data Analyst | Power BI Developer | M.Phil in Commerce — University 3rd Rank
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+Developer;Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Business+Intelligence" alt="Typing animation"/>
+</p>
 
-I enjoy transforming raw data into meaningful insights that support better business decisions. With a strong foundation in Commerce and hands-on experience building analytics projects, I use Power BI, SQL, Excel, and data visualization to explore trends, track performance, and identify business opportunities.
+<p align="center">
+  <a href="https://github.com/sakunthala-suriyan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakunthala-suriyan-49112631a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://sakunthala-suriyan.github.io/new-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-I'm passionate about business intelligence, data storytelling, and developing interactive dashboards that make complex information easier to understand.
+---
+
+## 👩‍💻 About Me
+
+- 📊 Aspiring **Data Analyst and Power BI Developer**
+- 📈 Interested in transforming raw data into meaningful business insights.
+- 📊 Building interactive dashboards and analytical reports.
+- 🛠️ Working with Power BI, SQL, Excel, DAX, and Power Query.
+- 🤖 Interested in Generative AI and Microsoft Fabric.
+- 🌱 Continuously improving my data analytics and visualization skills.
+- 🎯 Goal: To help organizations make data-driven decisions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/DAX-512DA8?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power%20Query-00A4EF?style=for-the-badge" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
-### Core Competencies
-- Data Cleaning and Transformation
-- Exploratory Data Analysis (EDA)
-- SQL Queries and Data Analysis
-- Power BI Dashboard Development
-- DAX Measures and Calculated Columns
-- Data Modeling and Relationships
-- KPI Tracking and Business Reporting
-- Data Visualization and Storytelling
-- Excel-Based Analysis and Reporting
-
----
-
-## 💡 My Analytical Approach
-
-1. **Business Understanding:** Identify business objectives, stakeholder questions, and KPIs.
-2. **Data Preparation:** Clean, validate, and transform data using Excel, SQL, and Power Query.
-3. **Data Modeling:** Create meaningful relationships and organize data for analysis.
-4. **Data Analysis:** Explore trends, patterns, and performance gaps.
-5. **Visualization:** Build interactive dashboards and reports.
-6. **Business Recommendations:** Translate findings into practical, data-driven recommendations.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. YouTube Analytics Dashboard
-**Tools:** Power BI | DAX | Data Visualization
+### ⚡ 1. EV Sales & Charging Infrastructure Analytics
 
-- Analyzed video performance, views, audience engagement, and revenue-related metrics.
-- Explored content performance and identified trends using interactive visuals.
-- Presented key performance indicators in a dashboard.
+- Analyze electric vehicle sales and regional performance.
+- Explore charging infrastructure and charging session trends.
+- Build interactive dashboards and business KPIs.
 
-🔗 [View Project on GitHub](https://github.com/sakunthala-suriyan/youtube-analytics-dashboard)
+**Tools:** Power BI, DAX, Power Query, Excel
 
-### 2. E-Commerce Sales Dashboard
-**Tools:** Power BI | DAX | Data Modeling
+### 👥 2. HR Analytics Dashboard
 
-- Analyzed sales performance and revenue trends.
-- Explored product and category performance.
-- Developed interactive reports to support business performance monitoring.
+- Analyze employee headcount and attrition.
+- Track workforce KPIs and employee trends.
+- Present HR insights through interactive visualizations.
 
-🔗 [View Project on GitHub](https://github.com/sakunthala-suriyan/E-Commerce-Sales-Dashboard)
+**Tools:** Power BI, Excel, DAX
 
-### 3. HR Analytics Dashboard
-**Tools:** Power BI | DAX | HR Analytics
+### 🛒 3. E-commerce Analytics Dashboard
 
-- Analyzed employee attrition across departments and job roles.
-- Visualized workforce trends and salary-based attrition patterns.
-- Identified potential employee retention opportunities.
+- Explore sales and product performance.
+- Track business KPIs and identify trends.
+- Present data through interactive reports.
 
-🔗 [View Project on GitHub](https://github.com/sakunthala-suriyan/HR-Analytics-PowerBI)
+**Tools:** Power BI, SQL, Excel
 
-### 4. Swiggy Restaurant Analysis
-**Tools:** SQL | Data Analysis
+### 📱 4. PhonePe Transaction Analysis
 
-- Analyzed restaurant ratings, cuisines, and restaurant performance.
-- Used SQL queries to explore and summarize restaurant data.
-- Compared restaurant and cuisine trends.
+- Analyze digital payment transaction patterns.
+- Explore transaction trends and key metrics.
+- Present findings through dashboard visualizations.
 
-🔗 [View Project on GitHub](https://github.com/sakunthala-suriyan/Swiggy-Restaurant-Analysis-SQL)
+**Tools:** Power BI, Excel, Data Visualization
 
-### 5. EV Market & Charging Analytics
-**Tools:** Power BI | DAX | Data Visualization
-
-- Explored electric vehicle adoption and sales trends.
-- Analyzed charging sessions and charging infrastructure across regions.
-- Compared state-level EV performance and charging usage through interactive dashboards.
-
-🔗 [View Project on GitHub](https://github.com/sakunthala-suriyan/EV-Market-Charging-Analytics)
-
-### 6. PhonePe Transaction Analysis
-**Tools:** Power BI | Data Modeling | Data Visualization
-
-- Analyzed digital payment transactions and regional performance.
-- Explored transaction patterns across Indian states.
-- Developed interactive visuals to communicate payment trends.
-
-🔗 [View Project on GitHub](https://github.com/sakunthala-suriyan/PhonePe-Transaction-Analysis-PowerBI)
+<p align="center">
+  <a href="https://sakunthala-suriyan.github.io/new-website/">
+    <img src="https://img.shields.io/badge/🚀_Explore-My_Interactive_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/sakunthala-suriyan?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakunthala-suriyan&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sakunthala-suriyan&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+### 📈 GitHub Contribution Summary
 
 <p align="center">
-  <a href="https://github.com/sakunthala-suriyan?tab=projects">
-    <img src="https://img.shields.io/badge/GitHub-My%20Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects"/>
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakunthala-suriyan&theme=radical"
+    alt="GitHub Contribution Activity Summary"
+    width="100%"
+  />
 </p>
-
-*Visit my repositories to explore my analytics projects, dashboards, SQL queries, and project documentation.*
 
 ---
 
 ## 🎓 Education
 
-- **M.Phil in Commerce** — Periyar University, 2018  
-  University 3rd Rank | 86.61%
-- **M.Com in Computer Applications** — Gold Medalist | 75.75%
+- 🎓 **M.Phil in Commerce** — Periyar University, 2018
+- 🏆 University 3rd Rank — 86.61%
+- 🎓 **M.Com in Computer Applications** — Gold Medalist — 75.75%
 
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications
 
-- Power BI
-- SQL
-- Microsoft Excel
-- Python Essentials
-- Tableau Essential Training
-- Data Visualization
-- Generative AI
+- Microsoft Power BI Desktop for Business Intelligence — Udemy
+- Complete SQL Bootcamp: Go from Zero to Hero — Udemy
+- Microsoft Excel: Beginner to Advanced — Udemy
+- Career Essentials in Generative AI — Microsoft
+- Microsoft Copilot and Generative AI certifications
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Advanced DAX:** Improving analytical calculations and measure optimization.
-- **Tableau:** Developing interactive dashboards and visualization skills.
-- **Microsoft Fabric:** Exploring modern analytics solutions.
-- **Data Storytelling:** Presenting insights through clear and meaningful visuals.
-- **Business Intelligence:** Connecting business requirements with data-driven solutions.
+- 📊 Advanced DAX and Power BI
+- 📉 Tableau
+- ☁️ Microsoft Fabric
+- 🗄️ SQL and data analysis
+- 📖 Data storytelling and business intelligence
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sakunthalasuriyan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakunthala-suriyan-49112631a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sakunthala-suriyan">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://sakunthala-suriyan.github.io/portfolio-website">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://sakunthala-suriyan.github.io/new-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+<p align="center">
+  <i>✨ Learning continuously. Analyzing thoughtfully. Turning data into impact. ✨</i>
+</p>
 
-I'm passionate about learning, building practical analytics projects, and developing business intelligence solutions. I'm looking forward to connecting with professionals and exploring opportunities in **Data Analytics and Power BI Development**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Animated footer"/>
+</p>
